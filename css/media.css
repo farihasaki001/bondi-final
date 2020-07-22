@@ -1,0 +1,430 @@
+/* Extra small devices (portrait phones, less than 576px)*/
+@media (max-width: 575.98px) {
+
+/*header start*/
+.menu ul li a{
+	margin-top: 13px;
+}
+.search{
+	margin-top: 13px;
+	width: 95% !important;
+}
+.login{
+	width: 100% !important;	
+	margin-top: 13px;
+}
+.title{
+	padding: 20px 0;
+}
+.t-h1{
+	font-size: 30px;	
+}
+
+/*header end*/
+
+/*service 1 start*/
+.service-one {
+	padding-bottom: 50px;
+    
+}
+.share{
+	
+}
+.good{
+	font-size: 25px;
+}
+.text-two{
+	font-size: 17px;
+}
+/*service 1 end*/
+
+/*service 2 start*/
+.service-two {
+   padding-bottom: 50px;
+}
+.btn-light {
+    margin: 0 5px;
+    margin-bottom: 20px;
+}
+.box{
+	margin-bottom: 25px;
+}
+/*service 2 end*/
+
+/*slider start*/
+.slider{
+	padding-bottom: 60px;
+}
+.cid{
+	bottom: -50px;
+}
+.cid li{
+	width: 13px;
+	height: 13px;
+}
+.s-content{	
+	margin: 0;
+	text-align: center;
+	margin-bottom: 20px;
+}
+.s-icon li i{
+	font-size: 30px;
+	margin-right: 10px;
+}
+.s-img img {
+	display: none;
+}
+/*slider end*/
+
+/*team start*/
+.member {
+        padding: 10px 80px;
+}
+.team{
+	padding: 50px 0;
+}
+.goodd{
+	font-size: 25px;
+}
+.middle{
+	top: 30%;
+}
+
+/*team start*/
+.sponsor{
+	padding: 50px 0;
+}
+.imgg{
+	height: 40px;
+}
+.start {
+    padding: 60px 0;
+}
+/*blog start*/
+.blog{
+    padding-bottom: 50px;
+}
+
+.text12{
+	text-align: center;
+}
+.text13{
+	text-align: center;
+
+}
+/*blog end*/
+/*news start*/
+.news {
+    padding: 50px 0;
+   
+}
+
+.input-group {
+	display: block !important;
+}
+.form{
+	width: 100% !important;
+	margin-bottom: 30px !important;
+	margin-top: 30px !important;
+}
+/*news end*/
+
+.mail{
+	width: 100% !important;
+}
+.footer {
+    padding: 50px 0;
+}
+
+}
+
+
+
+/* Small devices (landscape phones, 576px and up)*/
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+/*header start*/
+.menu ul li a{
+	margin-top: 13px;
+}
+.search{
+	
+	margin-top: 13px;
+}
+
+
+.login{
+	width: 100% !important;	
+	margin-top: 13px;
+}
+.title{
+	padding: 20px 0;
+}
+.t-h1{
+	font-size: 20px;
+}
+
+/*header end*/
+
+/*service 1 start*/
+.service-one {
+    padding-bottom: 50px;
+}
+.share{
+	
+}
+.good{
+	font-size: 25px;
+}
+
+.text-two{
+	font-size: 15px;
+}
+
+/*service 1 end*/
+
+/*service 2 start*/
+.service-two {
+   padding-bottom: 50px;
+}
+.btn-light {
+    margin: 0 5px;
+    margin-bottom: 20px;
+}
+.box{
+	margin-bottom: 35px;
+}
+/*service 2 end*/
+
+/*slider start*/
+.texttext{
+	
+	margin: 0;
+}
+.ratina{
+ margin-top: 20px;
+
+}
+.s-content{
+	text-align: center;
+}
+.s-img img {
+	display: none;
+}
+/*slider end*/
+
+/*team start*/
+.team{
+	padding-bottom: 50px;
+}
+
+.goodd{
+	font-size: 25px;
+}
+/*team start*/
+.sponsor{
+	padding: 50px 0;
+}
+.imgg{
+	height: 40px;
+}
+.start {
+    padding: 60px 0;
+}
+
+/*blog start*/
+.blog{
+    padding-bottom: 50px;
+}
+.text12{
+	
+	text-align: center;
+}
+.text13{
+	
+	text-align: center;
+
+}
+/*blog end*/
+/*news start*/
+.news {
+    padding: 50px 0;
+   
+}
+
+/*news end*/
+
+.mail{
+	width: 100% !important;
+}
+.footer {
+    padding: 50px 0;
+}
+
+}
+
+/* Medium devices (tablets, 768px and up)*/
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+/*header start*/
+.menu ul li a{
+	margin-top: 13px;
+}
+.search{
+	
+	margin-top: 13px;
+}
+
+.login{
+	width: 100% !important;	
+	margin-top: 13px;
+
+}
+.title{
+	padding: 40px 0;
+}
+.t-h1{
+	font-size: 40px;
+	
+}
+
+
+/*header end*/
+
+/*service 1 start*/
+.service-one {
+   padding-bottom: 50px;
+}
+.share{
+	
+}
+.good{
+	font-size: 25px;
+}
+.text-two{
+	font-size: 17px;
+}
+
+/*service 1 end*/
+	
+/*service 2 start*/
+.service-two {
+   padding-bottom: 50px;
+}
+.btn-light {
+    margin: 0 5px;
+    margin-bottom: 20px;
+}
+/*service 2 end*/
+
+/*slider start*/
+
+.s-content{
+}
+.s-img img {
+    height: 180px;
+}
+/*slider end*/
+
+/*team start*/
+.team{
+	padding-bottom: 50px;
+}
+
+.goodd{
+	font-size: 25px;
+}
+.middle{
+	top: 30%;
+}
+	
+
+/*team start*/
+.sponsor{
+	padding: 50px 0;
+}
+.imgg{
+	height: 40px;
+}
+.start {
+    padding: 60px 0;
+}
+/*blog start*/
+.blog{
+    padding-bottom: 50px;
+}
+.text12{
+	
+	text-align: center;
+}
+.text13{
+	
+	text-align: center;
+
+}
+/*blog end*/
+/*news start*/
+.news {
+    padding: 50px 0;
+   
+}
+/*news end*/
+/*footer*/
+.mail{
+	width: 100% !important;
+}
+.footer {
+    padding: 50px 0;
+}
+
+
+}
+/* Large devices (desktops, 992px and up)*/
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+/*header start*/
+.menu ul li a{
+	
+	font-size: 15px;
+}
+.menu ul li:last-child a{
+	border-right:none !important;
+}
+.ss{
+  margin-left: 30px;
+}
+/*header end*/
+
+/*service 1 start*/
+.started {
+    margin-top: 10px;
+}
+
+/*service 1 end*/
+}
+
+/* Extra large devices (large desktops, 1200px and up)*/
+@media (min-width: 1200px) {
+
+/*header start*/
+.menu ul li a{
+	
+	font-size: 15px;
+}
+.menu ul li:last-child a{
+	border-right:none !important;
+}
+.ss{
+	margin-left: 30px;
+}
+/*header end*/
+
+/*service 1 start*/
+.started {
+  
+    margin-top: 10px;
+}
+/*service 1 end*/
+
+}
+
